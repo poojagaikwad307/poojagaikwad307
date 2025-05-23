@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Pooja Gaikwad
 
 🎓 B.Sc. in Computer Science  
-📊 Aspiring Data Analyst  
+📊 Aspiring Data Analystcs 
 💻 Skills: Python | SQL | Excel | Power BI | Tableau  
 📍 Based in Solapur, India
 
