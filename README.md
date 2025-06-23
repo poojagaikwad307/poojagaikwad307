@@ -3,7 +3,7 @@
 🎓 B.Sc. in Computer Science  
 📊 Aspiring Data Analystcs 
 💻 Skills: Python | SQL | Excel | Power BI | Tableau  
-📍 Based in Solapur, India
+📍 Based in Pune, India
 
 🔍 Passionate about turning data into meaningful insights  
 🌱 Currently learning advanced dashboard design  
